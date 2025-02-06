@@ -1,4 +1,4 @@
-function toggleAccordion(event) {
+/* function toggleAccordion(event) {
     let element = event.target;
     while (!element.classList.contains('accordion-button')) {
       element = element.parentNode;
@@ -11,4 +11,4 @@ function toggleAccordion(event) {
     const icon = element.querySelector('.accordion-icon');
     icon.textContent = content.classList.contains('hidden') ? '▼' : '▲';
   }
-  
+   */
